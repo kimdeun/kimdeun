@@ -1,16 +1,13 @@
-### Hi there 👋
+### Привет! Меня зовут Ким Дэ Ун (Дима)
 
-<!--
-**kimdeun/kimdeun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+В этом профиле есть несколько репозиториев, с применением автоматизации тестирования, количество которых будет вдальнейшем пополняться, пока есть:
+1. [Scooter_UI_Tests](https://github.com/kimdeun/Scooter_UI_Tests) - проект, в котором применены UI тесты
+2. [Unit_Tests](https://github.com/kimdeun/Unit_Tests) - проект, в котором применены Unit тесты
 
-Here are some ideas to get you started:
+Подробнее о каждом проекте можно узнать в README соответствующего репозитория
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+Связаться со мной:
+* telegram - @kimdeun 
+* kimdeun@yandex.ru
+
